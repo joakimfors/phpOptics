@@ -15,6 +15,8 @@
  *
  */
 
+namespace phpOptics;
+
 //Require all the phpOptics Files
 require_once dirname(__FILE__).'/OpticsCluster.php';
 require_once dirname(__FILE__).'/OpticsPoint.php';
