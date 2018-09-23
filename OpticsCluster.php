@@ -1,4 +1,7 @@
 <?php
+
+namespace phpOptics;
+
 /**
  * OpticsCluster
  * @package phpOptics

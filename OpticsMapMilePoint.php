@@ -1,4 +1,7 @@
 <?php
+
+namespace phpOptics;
+
 /**
  * Handles distances on Earth in Miles
  * @package phpOptics

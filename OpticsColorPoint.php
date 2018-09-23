@@ -1,4 +1,7 @@
 <?php
+
+namespace phpOptics;
+
 //require dirname(__FILE__).'/OpticsPoint.php';
 /**
  * Handles color distance for points expressed in RGB

@@ -1,4 +1,7 @@
 <?php
+
+namespace phpOptics;
+
 /**
  * OpticsPoint
  * @package phpOptics

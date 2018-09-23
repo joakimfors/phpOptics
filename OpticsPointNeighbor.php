@@ -1,4 +1,7 @@
 <?php
+
+namespace phpOptics;
+
 /**
  * OpticsPointNeighbor
  * @package phpOptics
@@ -18,7 +21,7 @@ class OpticsPointNeighbor {
 
 	/**
 	 * Set the Neighbor data
-	 * 
+	 *
 	 * @param OpticsPoint $point
 	 * @param float $distance
 	 */
